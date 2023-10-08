@@ -19,6 +19,7 @@ a {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
+    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -26,11 +27,6 @@ a {
 
 .header-logo-studio {
     color: #2E2F42;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 
 
@@ -50,7 +46,7 @@ a {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 .header-menu-link:active,
@@ -59,7 +55,9 @@ a {
     color: #404BBF;
 }
 
-.header-address {}
+.header-address {
+    font-style: normal;
+}
 
 .header-address-menu {}
 
@@ -69,7 +67,6 @@ a {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    font-style: normal;
     letter-spacing: 0.02em;
 }
 
@@ -179,7 +176,7 @@ a {
 /**=====================porrtfolio======================*/
 
 .portfolio {
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .portfolio-title {
