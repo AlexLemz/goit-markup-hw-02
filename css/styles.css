@@ -152,7 +152,9 @@ a {
     text-transform: capitalize;
 }
 
-.team-menu {}
+.team-menu {
+    background-color: #FFF;
+}
 
 .team-item {}
 
@@ -187,9 +189,7 @@ a {
     text-transform: capitalize;
 }
 
-.portfolio-menu {
-    background-color: #FFF;
-}
+.portfolio-menu {}
 
 .portfolio-item {}
 
