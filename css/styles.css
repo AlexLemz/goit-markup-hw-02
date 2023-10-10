@@ -175,9 +175,7 @@ a {
 
 /**=====================porrtfolio======================*/
 
-.portfolio {
-    background-color: #FFF;
-}
+.portfolio {}
 
 .portfolio-title {
     color: #2E2F42;
@@ -190,6 +188,7 @@ a {
 }
 
 .portfolio-menu {
+    background-color: #FFF;
 }
 
 .portfolio-item {}
