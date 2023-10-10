@@ -190,10 +190,12 @@ a {
 }
 
 .portfolio-menu {
-    background-color: #ffffff;
+
 }
 
-.portfolio-item {}
+.portfolio-item {
+        background-color: #ffffff;
+}
 
 .portfolio-name {
     color: #2E2F42;
