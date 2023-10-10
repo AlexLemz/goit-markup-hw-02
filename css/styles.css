@@ -152,11 +152,11 @@ a {
     text-transform: capitalize;
 }
 
-.team-menu {
-    background-color: #FFF;
-}
+.team-menu {}
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-name {
     color: var(--NAVY-BLUE, #2E2F42);
