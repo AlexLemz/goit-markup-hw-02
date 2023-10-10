@@ -189,7 +189,9 @@ a {
     text-transform: capitalize;
 }
 
-.portfolio-menu {}
+.portfolio-menu {
+    background-color: #ffffff;
+}
 
 .portfolio-item {}
 
